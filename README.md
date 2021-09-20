@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johndemler
+👋 Hi, I’m @johndemler
 
 <!---
 johndemler/johndemler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
